@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">listado_github_kotlin</string>
+    <string name="toolbar_main">Listado de repositorios</string>
+    <string name="main_title">Listado de repositorios</string>
+    <string name="nombre_del_proyecto">Nombre del proyecto : </string>
+    <string name="nombre_usuario">Nombre usuario : </string>
+    <string name="descripcion">Descripcion :</string>
+    <string name="lenguaje">Lenguaje :</string>
+</resources>
